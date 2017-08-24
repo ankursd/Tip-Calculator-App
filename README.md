@@ -49,7 +49,7 @@ Question 2: "Swift uses [Automatic Reference Counting](https://developer.apple.c
 
 ## License
 
-    Copyright [2014] [Ankur Sood]
+    Copyright [2017] [Ankur Sood]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
