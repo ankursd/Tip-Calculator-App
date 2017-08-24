@@ -1,2 +1,2 @@
 # Tip-Calculator-App
-IOS Application to calculate tip.
+IOS Application to calculate tips.
